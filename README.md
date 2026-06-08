@@ -82,5 +82,4 @@ This project demonstrates:
 
 ## 📸 Project Preview
 
-_image:<img width="1432" height="852" alt="Screenshot 2026-06-06 093205" src="https://github.com/user-attachments/assets/31233a8e-f304-4f9a-86fe-76f82fa39aa1" />
-_
+_image:<img width="1432" height="852" alt="Screenshot 2026-06-06 093205" src="https://github.com/user-attachments/assets/2491b6a3-265c-4dc0-8a46-9284d4f62165" />_

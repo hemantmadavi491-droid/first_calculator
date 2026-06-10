@@ -4,6 +4,13 @@ A sleek and responsive web-based calculator built with **Python Flask**, **HTML5
 
 ---
 
+## 🌐 Live Demo
+👉 [Try it here on Render](https://first-calculator-bth8.onrender.com)
+
+[![Live Demo](https://img.shields.io/badge/Render-Live%20App-blue)](https://first-calculator-bth8.onrender.com)
+
+---
+
 ## ✨ Key Features
 
 ### 🎨 Modern UI Design
@@ -82,4 +89,4 @@ This project demonstrates:
 
 ## 📸 Project Preview
 
-_image:<img width="1432" height="852" alt="Screenshot 2026-06-06 093205" src="https://github.com/user-attachments/assets/2491b6a3-265c-4dc0-8a46-9284d4f62165" />_
+<img width="1432" height="852" alt="Screenshot 2026-06-06 093205" src="https://github.com/user-attachments/assets/2491b6a3-265c-4dc0-8a46-9284d4f62165" />
